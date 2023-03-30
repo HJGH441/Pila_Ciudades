@@ -1,3 +1,6 @@
+#20852 Gerardo Valencia
+#21133 Hector Gonzalez
+#21253 Aurelio Marin Bautista
 from collections import deque
 pila = []
 
